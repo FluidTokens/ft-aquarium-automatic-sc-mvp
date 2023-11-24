@@ -1,0 +1,14 @@
+name = "fluidtokens/ft_cardano_automatic_sc_mvp"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'fluidtokens/ft_cardano_automatic_sc_mvp'"
+
+[repository]
+user = "fluidtokens"
+project = "ft_cardano_automatic_sc_mvp"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.7.0"
+source = "github"
